@@ -2,14 +2,23 @@ Excel Payroll Management
 Welcome to Excel Payroll Management, a comprehensive system for managing employee payroll data efficiently using Microsoft Excel.
 
 Features
+
 1.First Name: Enter the first name of each employee.
+
 2.Last Name: Input the last name of each employee.
+
 3.Hourly Wages: Set the hourly wage rate for each employee.
+
 4.Overtime Bonus: Enter any overtime bonus or additional pay for overtime work.
+
 5.Pay: Automatically calculate the pay for each employee based on their hours worked and hourly wages.
+
 6.Total Pay: Calculate the total pay including any bonuses or additional earnings.
+
 7.Average: Calculate the average pay across all employees.
+
 8.Minimum: Identify the minimum pay among all employees.
+
 9.Maximum: Identify the maximum pay among all employees.
 
 Usage
