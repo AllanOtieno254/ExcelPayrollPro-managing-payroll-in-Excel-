@@ -1,8 +1,8 @@
-Excel Payroll Management:
+##Excel Payroll Management:
 
 Welcome to Excel Payroll Management, a comprehensive system for managing employee payroll data efficiently using Microsoft Excel.
 
-Features
+## Features
 
 1.First Name: Enter the first name of each employee.
 
@@ -22,7 +22,7 @@ Features
 
 9.Maximum: Identify the maximum pay among all employees.
 
-Usage:
+## Usage:
 
 Employee Information: Fill in the first name, last name, hourly wages, and overtime bonus (if applicable) for each employee.
 
@@ -32,7 +32,7 @@ Total Pay Calculation: Ensure that any additional earnings or bonuses are includ
 
 Analysis: Utilize the average, minimum, and maximum functions to analyze payroll data and identify trends or outliers.
 
-Topics of Concern
+## Topics of Concern
 
 Accuracy: Verify the accuracy of calculations to ensure correct payment to employees.
 
@@ -49,5 +49,5 @@ Contributing
 Contributions to this project are welcome! If you have any suggestions for improvements or new features, feel free to submit a pull request.
 
 
-License
+##License
 This project is licensed under the MIT License.
