@@ -49,5 +49,5 @@ Contributing
 Contributions to this project are welcome! If you have any suggestions for improvements or new features, feel free to submit a pull request.
 
 
-##License
+## License
 This project is licensed under the MIT License.
